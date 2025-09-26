@@ -11,5 +11,5 @@ def home(request):
 def about(request):
     return render(request, 'about.html', {'title': 'About'})
 
-def arnwin(request):
-    return render(request, 'arnwin.html', {'title': 'Arnwin'})
+def Julliane(request):
+    return render(request, 'Julliane.html', {'title': 'Julliane'})
